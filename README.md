@@ -51,6 +51,7 @@ cd your-repository
 ```
 
 Install Dependencies
+
 bash
 Copy code
 npm install
@@ -58,6 +59,7 @@ Firebase Configuration
 You need to set up Firebase configuration for the project. Create a .env.local file in the root directory and add the following environment variables:
 
 bash
+
 Copy code
 NEXT_PUBLIC_FIREBASE_API_KEY=your-api-key
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your-auth-domain
@@ -71,6 +73,7 @@ Running the Application
 To run the application on your localhost, follow these steps:
 
 Start the Development Server
+
 bash
 Copy code
 npm run dev
