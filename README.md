@@ -63,11 +63,17 @@ bash
 Copy code
 
 NEXT_PUBLIC_FIREBASE_API_KEY=your-api-key
+
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your-auth-domain
+
 NEXT_PUBLIC_FIREBASE_PROJECT_ID=your-project-id
+
 NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your-storage-bucket
+
 NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your-messaging-sender-id
+
 NEXT_PUBLIC_FIREBASE_APP_ID=your-app-id
+
 Replace the placeholder values with your actual Firebase configuration details.
 
 Running the Application
@@ -83,16 +89,21 @@ Open your browser and navigate to http://localhost:3000 to see the application r
 Features
 
 User Authentication: Sign up, sign in, and secure session management using Firebase Authentication.
+
 AI Chat Interaction: Real-time chat with AI-powered responses.
+
 Profile Management: Manage user profiles and preferences.
+
 Responsive Design: User-friendly and responsive design using Material-UI and Next.js.
-Contributing
-Contributions are welcome! Please follow these steps to contribute:
 
 Fork the repository
+
 Create a new branch (git checkout -b feature-branch)
+
 Commit your changes (git commit -m 'Add some feature')
+
 Push to the branch (git push origin feature-branch)
+
 Open a Pull Request
 
 ### Key Sections Filled In:
