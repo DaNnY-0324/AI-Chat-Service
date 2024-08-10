@@ -170,11 +170,8 @@ export default function SignIn() {
             )}
           </Box>
           <Box sx={{ mt: 2 }}>
-            <Typography variant="body2" color="textSecondary">
-              Don't have an account?{" "}
-              <Link href="/sign-up" variant="body2">
-                Sign Up
-              </Link>
+            <Typography variant="body2">
+              Don't have an account? Sign up now!
             </Typography>
           </Box>
         </Box>
