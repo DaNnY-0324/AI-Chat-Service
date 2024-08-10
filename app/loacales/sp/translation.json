@@ -1,0 +1,10 @@
+{
+  "welcome": "Bienvenido al Chatbot",
+  "signIn": "Iniciar sesión",
+  "signUp": "Registrarse",
+  "darkMode": "Modo oscuro",
+  "lightMode": "Modo claro",
+  "send": "Enviar",
+  "rateResponse": "Calificar esta respuesta",
+  "logout": "Cerrar sesión"
+}
