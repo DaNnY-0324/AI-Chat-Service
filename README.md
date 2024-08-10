@@ -77,6 +77,7 @@ npm run dev
 Open your browser and navigate to http://localhost:3000 to see the application running.
 
 Features
+
 User Authentication: Sign up, sign in, and secure session management using Firebase Authentication.
 AI Chat Interaction: Real-time chat with AI-powered responses.
 Profile Management: Manage user profiles and preferences.
